@@ -1,0 +1,3 @@
+﻿  Arkanoid.cpp
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Arkanoid.vcxproj -> C:\Users\Servets\source\repos\Arkanoid\Debug\Arkanoid.exe

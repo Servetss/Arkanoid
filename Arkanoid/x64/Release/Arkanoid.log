@@ -1,0 +1,80 @@
+﻿  Arkanoid.cpp
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(13): error C2065: 'RenderWindow': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(13): error C2146: syntax error: missing ';' before identifier 'app'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(13): error C3861: 'VideoMode': identifier not found
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(13): error C3861: 'app': identifier not found
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(14): error C2065: 'app': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(14): error C2228: left of '.setFramerateLimit' must have class/struct/union
+  c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(14): note: type is 'unknown-type'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(16): error C2065: 'Texture': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(16): error C2146: syntax error: missing ';' before identifier 't1'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(16): error C2065: 't1': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(16): error C2065: 't2': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(16): error C2065: 't3': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(16): error C2065: 't4': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(16): error C2065: 't5': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(16): error C2065: 't6': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(16): error C2065: 't7': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(16): error C2065: 't8': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(16): error C2065: 't9': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(16): error C2065: 't10': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(16): error C2065: 't11': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(18): error C2065: 't1': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(18): error C2228: left of '.loadFromFile' must have class/struct/union
+  c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(18): note: type is 'unknown-type'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(19): error C2065: 't2': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(19): error C2228: left of '.loadFromFile' must have class/struct/union
+  c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(19): note: type is 'unknown-type'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(20): error C2065: 't3': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(20): error C2228: left of '.loadFromFile' must have class/struct/union
+  c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(20): note: type is 'unknown-type'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(21): error C2065: 't4': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(21): error C2228: left of '.loadFromFile' must have class/struct/union
+  c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(21): note: type is 'unknown-type'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(22): error C2065: 't5': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(22): error C2228: left of '.loadFromFile' must have class/struct/union
+  c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(22): note: type is 'unknown-type'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(23): error C2065: 't6': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(23): error C2228: left of '.loadFromFile' must have class/struct/union
+  c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(23): note: type is 'unknown-type'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(24): error C2065: 't7': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(24): error C2228: left of '.loadFromFile' must have class/struct/union
+  c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(24): note: type is 'unknown-type'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(25): error C2065: 't8': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(25): error C2228: left of '.loadFromFile' must have class/struct/union
+  c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(25): note: type is 'unknown-type'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(26): error C2065: 't9': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(26): error C2228: left of '.loadFromFile' must have class/struct/union
+  c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(26): note: type is 'unknown-type'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(27): error C2065: 't10': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(27): error C2228: left of '.loadFromFile' must have class/struct/union
+  c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(27): note: type is 'unknown-type'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(28): error C2065: 't11': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(28): error C2228: left of '.loadFromFile' must have class/struct/union
+  c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(28): note: type is 'unknown-type'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(33): error C2065: 'app': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(33): error C2228: left of '.isOpen' must have class/struct/union
+  c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(33): note: type is 'unknown-type'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(35): error C2065: 'Event': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(35): error C2146: syntax error: missing ';' before identifier 'e'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(35): error C2065: 'e': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(36): error C2065: 'app': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(36): error C2228: left of '.pollEvent' must have class/struct/union
+  c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(36): note: type is 'unknown-type'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(36): error C2065: 'e': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(38): error C2065: 'e': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(38): error C2228: left of '.type' must have class/struct/union
+  c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(38): note: type is 'unknown-type'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(38): error C2653: 'Event': is not a class or namespace name
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(38): error C2065: 'Closed': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(39): error C2065: 'app': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(39): error C2228: left of '.close' must have class/struct/union
+  c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(39): note: type is 'unknown-type'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(42): error C2065: 'app': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(42): error C2228: left of '.draw' must have class/struct/union
+  c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(42): note: type is 'unknown-type'
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(42): error C2065: 'sBackGround': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(44): error C2065: 'app': undeclared identifier
+c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(44): error C2228: left of '.display' must have class/struct/union
+  c:\users\servets\source\repos\arkanoid\arkanoid\arkanoid.cpp(44): note: type is 'unknown-type'
